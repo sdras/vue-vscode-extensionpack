@@ -10,7 +10,7 @@
     "color": "#47B784",
     "theme": "dark"
   },
-  "icon": "azure-icon.png",
+  "icon": "logo.png",
   "repository": {
     "url": "https://github.com/sdras/vue-vscode-extensionpack"
   },
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/sdras/vue-vscode-extensionpack/issues"
   },
-  "keywords": ["vue", "vuejs"],
+  "keywords": ["vue", "vuejs", "extension pack", "vue extension collection"],
   "categories": ["Vue", "Extension Packs"],
   "engines": {
     "vscode": "^1.14.0"
@@ -29,6 +29,7 @@
     "esbenp.prettier-vscode",
     "alefragnani.Bookmarks",
     "christian-kohler.npm-intellisense",
-    "wmaurer.vscode-jumpy"
+    "wmaurer.vscode-jumpy",
+    "alexdima.copy-relative-path"
   ]
 }
