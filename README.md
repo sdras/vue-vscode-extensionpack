@@ -15,4 +15,10 @@ These are some of my favorite extensions to make Vue application development eas
 * [ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - quickly spin up ES6 JavaScript with only 3 or 4 characters
 * [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path) - copies the relative path of any file right from the sidebar by right-clicking.
 
+## Relevant Links
+
+* [Github](https://github.com/sdras/vue-vscode-extensionpack)
+* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack#review-details)
+
+
 **Enjoy!**
