@@ -1,0 +1,34 @@
+{
+  "name": "vue-vscode-extensionpack",
+  "version": "0.0.1",
+  "publisher": "sdras",
+  "displayName": "Vue VS Code Extension Pack",
+  "description":
+    "A collection of extensions for working with Vue Applications in VS Code",
+  "license": "SEE LICENSE IN LICENSE",
+  "galleryBanner": {
+    "color": "#47B784",
+    "theme": "dark"
+  },
+  "icon": "azure-icon.png",
+  "repository": {
+    "url": "https://github.com/sdras/vue-vscode-extensionpack"
+  },
+  "homepage": "https://github.com/sdras/vue-vscode-extensionpack",
+  "bugs": {
+    "url": "https://github.com/sdras/vue-vscode-extensionpack/issues"
+  },
+  "keywords": ["vue", "vuejs"],
+  "categories": ["Vue", "Extension Packs"],
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "extensionDependencies": [
+    "octref.vetur",
+    "sdras.vue-vscode-snippets",
+    "esbenp.prettier-vscode",
+    "alefragnani.Bookmarks",
+    "christian-kohler.npm-intellisense",
+    "wmaurer.vscode-jumpy"
+  ]
+}
