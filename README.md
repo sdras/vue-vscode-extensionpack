@@ -18,7 +18,7 @@ These are some of my favorite extensions to make Vue application development eas
 ## Relevant Links
 
 * [Github](https://github.com/sdras/vue-vscode-extensionpack)
-* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack#review-details)
+* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack)
 
 
 **Enjoy!**
