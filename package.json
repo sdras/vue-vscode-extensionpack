@@ -19,7 +19,7 @@
     "url": "https://github.com/sdras/vue-vscode-extensionpack/issues"
   },
   "keywords": ["vue", "vuejs", "extension pack", "vue extension collection"],
-  "categories": ["Vue", "Extension Packs"],
+  "categories": ["Extension Packs"],
   "engines": {
     "vscode": "^1.14.0"
   },
