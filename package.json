@@ -27,11 +27,13 @@
     "octref.vetur",
     "sdras.vue-vscode-snippets",
     "esbenp.prettier-vscode",
+    "tombonnike.vscode-status-bar-format-toggle",
     "alefragnani.Bookmarks",
     "xabikos.JavaScriptSnippets",
     "christian-kohler.npm-intellisense",
     "wmaurer.vscode-jumpy",
     "alexdima.copy-relative-path",
-    "CoenraadS.bracket-pair-colorizer"
+    "CoenraadS.bracket-pair-colorizer",
+    "whizkydee.material-palenight-theme"
   ]
 }
