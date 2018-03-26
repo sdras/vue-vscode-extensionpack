@@ -26,6 +26,7 @@
   "extensionDependencies": [
     "octref.vetur",
     "sdras.vue-vscode-snippets",
+    "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "tombonnike.vscode-status-bar-format-toggle",
     "alefragnani.Bookmarks",
