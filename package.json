@@ -3,8 +3,7 @@
   "version": "0.1.2",
   "publisher": "sdras",
   "displayName": "Vue VS Code Extension Pack",
-  "description":
-    "A collection of extensions for working with Vue Applications in VS Code",
+  "description": "A collection of extensions for working with Vue Applications in VS Code",
   "license": "SEE LICENSE IN LICENSE",
   "galleryBanner": {
     "color": "#47B784",
@@ -18,8 +17,15 @@
   "bugs": {
     "url": "https://github.com/sdras/vue-vscode-extensionpack/issues"
   },
-  "keywords": ["vue", "vuejs", "extension pack", "vue extension collection"],
-  "categories": ["Extension Packs"],
+  "keywords": [
+    "vue",
+    "vuejs",
+    "extension pack",
+    "vue extension collection"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
   "engines": {
     "vscode": "^1.14.0"
   },
@@ -34,6 +40,6 @@
     "wmaurer.vscode-jumpy",
     "alexdima.copy-relative-path",
     "CoenraadS.bracket-pair-colorizer",
-    "whizkydee.material-palenight-theme"
+    "sdras.night-owl"
   ]
 }
