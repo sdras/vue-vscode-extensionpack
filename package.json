@@ -29,7 +29,7 @@
   "engines": {
     "vscode": "^1.14.0"
   },
-  "extensionDependencies": [
+  "extensionPack": [
     "octref.vetur",
     "sdras.vue-vscode-snippets",
     "esbenp.prettier-vscode",
