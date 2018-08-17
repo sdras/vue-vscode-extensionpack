@@ -27,7 +27,7 @@
     "Extension Packs"
   ],
   "engines": {
-    "vscode": "^1.14.0"
+    "vscode": "^1.26.0"
   },
   "extensionPack": [
     "octref.vetur",
