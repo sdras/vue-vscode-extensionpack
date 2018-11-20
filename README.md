@@ -15,7 +15,6 @@ These are some of my favorite extensions to make Vue application development eas
 - [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy&WT.mc_id=marketplace-pack-sdras) - We lose a lot of time scanning with a mouse, time we can get back by using our keyboard instead. Jumpy provides fast cursor movement by giving you a couple of keys that offer a hook to get to another part of the document.
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense&WT.mc_id=marketplace-pack-sdras) - a plugin that autocompletes npm modules in import statements
 - [ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets&WT.mc_id=marketplace-pack-sdras) - quickly spin up ES6 JavaScript with only 3 or 4 characters
-- [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path&WT.mc_id=marketplace-pack-sdras) - copies the relative path of any file right from the sidebar by right-clicking.
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=marketplace-pack-sdras) Syntax highlighting can be a very personal thing, so you might not want to use this, but I worked hard creating a theme you might like. Especially great for your eyes at night, this theme was developed especially with contrast and colorblindness in mind.
 
 ## Relevant Links
