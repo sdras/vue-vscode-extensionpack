@@ -16,6 +16,7 @@ These are some of my favorite extensions to make Vue application development eas
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense&WT.mc_id=marketplace-pack-sdras) - a plugin that autocompletes npm modules in import statements
 - [ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets&WT.mc_id=marketplace-pack-sdras) - quickly spin up ES6 JavaScript with only 3 or 4 characters
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=marketplace-pack-sdras) Syntax highlighting can be a very personal thing, so you might not want to use this, but I worked hard creating a theme you might like. Especially great for your eyes at night, this theme was developed especially with contrast and colorblindness in mind.
+- [goto node modules](https://marketplace.visualstudio.com/items?itemName=ravenq.vscode-goto-node-modules) - Goto node modules from vue/js code.
 
 ## Relevant Links
 
